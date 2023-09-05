@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youllz
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javacript, JavaScript and Go 
-- 📫 How to reach me youssoufzerbo@gmail.com
+- 📫 How to reach me youssoufzerbo01@gmail.com
 
 <!---
 youllz/youllz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
